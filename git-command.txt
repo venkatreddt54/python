@@ -1,0 +1,4 @@
+
+git clone --mirror https://github.com/venkatreddt54/python.git .git
+git cofig --bool core.bare false
+git reset --hard
